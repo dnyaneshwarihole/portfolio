@@ -4,9 +4,9 @@
 #### Technical Skills: Python, SQL, DBMS, Power BI, Data Visualization, UI/UX Designing, Figma, Wireframing, User Research
 
 ## Education
-- B.E., Computer Engineering | Pune Institute of Computer Technology[PICT]  (_Present_)								       		
-- Diploma., Government Polytechnic Nashik (_June 2022_)	 			        		
-- 10th., Central Board of Secondary Education | Macro Vision Academy School, Raver  (_March 2019_)
+- B.E., Pune Institute of Computer Technology (_Present_)								       		
+- Diploma, Government Polytechnic Nashik (_June 2022_)	 			        		
+- 10th, CBSE| Macro Vision Academy School, Raver (_March 2019_)
 
 ## Work Experience
 **Augmented Reality Intern @ Pune Institute of Computer Technology (_February 2024 - April 2024_)**
