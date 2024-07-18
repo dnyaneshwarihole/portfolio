@@ -17,7 +17,7 @@
 - Collaborated with faculty to gather requirements and ensure the application's usability. 
 - Successfully delivered a functional prototype, demonstrating the potential of AR in educational environments.
 
-**Web Developer Intern  @ EDUPHOENIX PVT LTD (_August 2023 - _September 2023_)**
+**Web Developer Intern  @ EDUPHOENIX PVT LTD (_August 2023 - September 2023_)**
 - Successfully completed an online internship focusing on web development and UI/UX design. 
 - Developed and maintained websites using HTML, CSS, JavaScript, and modern frameworks. 
 - Designed intuitive and user-friendly interfaces, enhancing user experience and engagement. 
