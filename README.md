@@ -7,8 +7,8 @@
 - B.E., Pune Institute of Computer Technology (_Present_)
                 		
 - Diploma, Government Polytechnic Nashik (_June 2022_)
-               		
-- 10th, CBSE| Macro Vision Academy School, Raver (_March 2019_)
+  
+- 10th, CBSE-Macro Vision Academy School, Raver (_March 2019_)
 
 ## Work Experience
 **Augmented Reality Intern @ Pune Institute of Computer Technology (_February 2024 - April 2024_)**
